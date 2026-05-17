@@ -1,0 +1,54 @@
+{
+  "project_metadata": {
+    "name": "about zamallek club",
+    "created_at": "2026-05-09T21:10:34.682212",
+    "revision_count": 0
+  },
+  "content": {
+    "full_text": "[Error] Groq API: 429 - {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kr6xmz5zfm6sm6a13ky4vedg` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 1086",
+    "word_count": 26
+  },
+  "publishing_timeline": {
+    "start_date": "2026-05-09",
+    "start_time": "2026-05-09 21:10:34",
+    "research_complete": "2026-05-10",
+    "analysis_complete": "2026-05-11 09:10",
+    "content_ready": "2026-05-11",
+    "design_complete": "2026-05-12",
+    "review_complete": "2026-05-13",
+    "publish_date": "2026-05-14",
+    "publish_time": "2026-05-15 06:10",
+    "promotion_start": "2026-05-14 23:10",
+    "first_boost": "2026-05-15",
+    "second_boost": "2026-05-17",
+    "first_review": "2026-05-21",
+    "performance_report": "2026-05-23",
+    "optimization_day": "2026-05-30"
+  },
+  "publishing_plan": "\n📅 TIMELINE\n----------------------------------------\nStart: 2026-05-09\nResearch done: 2026-05-10\nContent ready: 2026-05-11\nDesign complete: 2026-05-12\nReview done: 2026-05-13\nPUBLISH: 2026-05-14\nPromotion: 2026-05-14 23:09\nReview results: 2026-05-21\n\n📋 DETAILED PLAN\n----------------------------------------\n### Detailed Publishing Plan for Zamalek Club Fan Content\n\n#### 1. PLATFORM SELECTION\n\n- **Primary Platform:** Instagram\n  - **Why:** Instagram's visual nature, popularity of short-form videos (Reels), live streaming (Instagram Live), and IGTV for longer content align well with our strategy of providing exclusive, behind-the-scenes content and interactive elements. Its features offer a versatile platform for both entertainment and interaction.\n  \n- **Secondary Platforms:**\n  - **Twitter:** For real-time updates, discussions, and leveraging trending hashtags.\n  - **YouTube:** For longer, more in-depth content like detailed analysis and interviews.\n  \n  - **Repurposing Content:**\n    - Instagram Reels can be shared on Twitter and Facebook.\n    - YouTube video snippets can be used for Instagram and Twitter.\n    - Twitter threads can be summarized into Instagram posts.\n\n#### 2. POSTING SCHEDULE\n\n- **Best Days and Times:**\n  - **Weekends (Sundays),** when fans are more likely to be relaxed and engaged with sports content.\n  - **Peak Hours:** 12-3 pm and 6-9 pm, when engagement rates are typically higher.\n  \n- **Frequency:**\n  - **Instagram and Twitter:** Daily posts to maintain consistent engagement.\n  - **YouTube:** Weekly, focusing on in-depth content that requires more production time.\n\n#### 3. DISTRIBUTION STRATEGY\n\n- **Organic:**\n  - **Hashtags:** Utilize relevant and popular hashtags like #ZamalekClub, #EgyptianPremierLeague, and #Football.\n  - **Tagging:** Tag relevant accounts, including official Zamalek Club accounts, players, and other fan accounts.\n  - **Engagement:** Respond to comments, engage in discussions, and use Instagram Stories and Twitter polls to interact with the audience.\n  \n- **Paid:**\n  - **Budget Suggestion:** Allocate $500 for the first month to test paid advertising on Instagram and Facebook, focusing on targeted ads to reach potential fans.\n  - **Targeting:** Target fans of Zamalek Club, Egyptian football, and sports enthusiasts in general, using demographic, interest, and behavioral targeting options.\n\n#### 4. PROMOTION CALENDAR\n\n- **Pre-Launch (2 days before - Friday, assuming launch on Sunday):**\n  - **Teaser Posts:** Share sneak peeks of upcoming content on Instagram and Twitter.\n  - **Engagement Campaign:** Launch a \"Guess the Player\" game on Instagram and Twitter, encouraging fans to participate and share the content.\n  \n- **Launch Day (Sunday):**\n  - **9:00 AM:** Launch the Instagram and Twitter accounts with an introductory post.\n  - **12:00 PM:** Share the first exclusive content piece on Instagram (a behind-the-scenes video).\n  - **3:00 PM:** Engage with the audience through a live Q&A session on Instagram Live.\n  - **6:00 PM:** Share a detailed analysis of an upcoming match on YouTube.\n  - **9:00 PM:** Recap the day's engagement and content on Twitter, thanking followers for their support.\n\n- **Post-Launch (Next 7 Days):**\n  - **Monday:** Share a Twitter thread discussing the previous day's match.\n  - **Tuesday:** Post an infographic highlighting player stats on Instagram.\n  - **Wednesday:** Host a \"Fan of the Week\" feature, where a fan's story or contribution is highlighted across all platforms.\n  - **Thursday:** Share a sneak peek of an upcoming video on Instagram Stories and Twitter.\n  - **Friday:** Engage in a discussion on the latest football news on Twitter.\n  - **Saturday:** Share a motivational post or a throwback to a significant Zamalek Club moment on Instagram.\n  - **Sunday:** Repeat the cycle with new content and engagement strategies.\n\n#### 5. TEAM ROLES\n\n- **Content Creator:** Responsible for producing and editing content, including videos, posts, and stories.\n- **Social Media Manager:** Oversees the posting schedule, engagement, and distribution strategy.\n- **Community Manager:** Focuses on interacting with the audience, responding to comments, and managing the community aspect.\n- **Marketing Specialist:** Handles paid advertising, budgeting, and targeting strategies.\n\n- **Approval Process:**\n  - All content must be approved by the Content Creator and Social Media Manager before posting.\n  - Paid advertising campaigns must be approved by the Marketing Specialist and Social Media Manager.\n  - Community engagement strategies and responses are overseen by the Community Manager, with escalation to the Social Media Manager if necessary.\n\nBy following this detailed publishing plan, the Zamalek Club fan content can effectively engage the target audience, differentiate itself from competitors, and build a loyal following among fans.\n\n🎯 KPIs TO TRACK\n----------------------------------------\n- Views/Impressions: Target 10,000+\n- Engagement Rate: Target 5%+\n- Shares/Retweets: Target 500+\n- Click-through Rate: Target 3%+\n- Conversions: Target 100+\n",
+  "key_performance_indicators": {
+    "primary_kpi": "Engagement Rate > 5%",
+    "secondary_kpis": [
+      "Views: 10,000+",
+      "Shares: 500+",
+      "Click-through: 3%+",
+      "Conversions: 100+"
+    ]
+  },
+  "launch_checklist": [
+    "✅ Content reviewed and approved by 2026-05-13",
+    "✅ Images/visuals created and optimized",
+    "✅ Links and UTM parameters added for tracking",
+    "✅ Scheduled in publishing tool (Buffer/Hootsuite/etc.)",
+    "✅ Team notified for launch day engagement",
+    "✅ Tracking dashboard set up",
+    "✅ Pre-launch promotion scheduled for 2026-05-14 23:10",
+    "✅ Ready to publish on 2026-05-14"
+  ],
+  "next_steps": [
+    "📅 Publish on: 2026-05-14",
+    "📊 Monitor first 24 hours closely",
+    "🔄 Repurpose top-performing content after 7 days",
+    "📈 Report results to stakeholders"
+  ]
+}

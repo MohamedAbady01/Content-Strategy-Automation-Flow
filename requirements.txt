@@ -1,0 +1,6 @@
+requests
+langgraph
+langchain
+pydantic
+python-dotenv
+colorama
