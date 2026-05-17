@@ -1,8 +1,8 @@
-# Content Strategy Automation Flow
-
 ## Overview
 This project implements an automated, multi-agent workflow for transforming a raw content idea into a fully-developed content strategy with validated outputs, timelines, milestones, and KPIs.
 
+## Workflow Diagram
+```mermaid
 graph TD
     START((Start)) --> A["User Input: Brief about content idea"]
     A --> B[Brainstorming Agent]
