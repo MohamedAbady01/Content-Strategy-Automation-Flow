@@ -26,7 +26,7 @@ graph TD
     P --> END((End))
 ```
 
-## Agents & Components
+### Agents & Components
 Agent	             Responsibility
 Brainstorming Agent	 Clarifies the initial idea through interactive Q&A with the user
 Deep Research Agent	 Conducts background research on the validated idea
@@ -46,10 +46,10 @@ Pass: > 7 → Proceed to final output
 
 Fail: ≤ 7 → Revise strategy and re-evaluate
 
-##Inputs
+## Inputs
 Brief description of a content idea (from user)
 
-##Outputs
+## Outputs
 ✅ Final content piece
 
 📅 Timeline with start and end dates
@@ -59,7 +59,7 @@ Brief description of a content idea (from user)
 📊 KPIs for measuring success
 
 
-### How to Use (Conceptual)
+## How to Use (Conceptual)
 Submit a short content idea.
 
 Answer clarifying questions from the Brainstorming Agent.
